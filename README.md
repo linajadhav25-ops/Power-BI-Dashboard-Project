@@ -113,5 +113,41 @@ Developed an interactive E-Commerce Website Sales Dashboard using Power BI to an
 - Sales by Market
 - Sales by State
 
+  ### 7. HR Analytics Dashboard
+
+**Tools Used:** Power BI, Excel, DAX, Power Query
+
+**Project Description:**
+Developed an interactive HR Analytics Dashboard using Power BI to analyze employee data, attrition trends, salary, experience, and workforce demographics.
+
+**Key Performance Indicators (KPIs):**
+- Employee Count
+- Attrition Rate
+- Average Age
+- Average Salary
+- Average Years of Experience
+
+**Slicer:**
+- Department (Human Resources, Research & Development, Sales)
+
+**Dashboard Visualizations:**
+- Attrition by Education Field
+- Attrition by Age Group
+- Attrition by Salary Group
+- Attrition by Years of Experience
+- Attrition by Job Role
+- Attrition Count by Gender
+
+**Job Role Analysis:**
+- Job Role
+- First
+- Second
+- Third
+- Fourth
+- Total
+
+**Project Objective:**
+To understand employee attrition patterns and analyze workforce distribution across different departments, age groups, salary groups, and job roles.
+
 ## Contact
 GitHub: Lina Jadhav
