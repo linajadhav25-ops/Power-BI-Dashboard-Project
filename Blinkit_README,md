@@ -1,0 +1,30 @@
+# Blinkit Sales Analysis Dashboard
+
+## Project Overview
+This project analyzes Blinkit sales data using Power BI to understand business performance and sales trends.
+
+## Tools & Technologies
+- Power BI
+- Microsoft Excel
+- Power Query
+- DAX
+
+## Key Performance Indicators
+- Total Sales
+- Average Sales
+- Number of Items
+- Average Rating
+
+## Dashboard Features
+- Sales by Item Type
+- Outlet Location Analysis
+- Outlet Size Analysis
+- Fat Content Analysis
+- Outlet Establishment Trends
+- Customer Rating Analysis
+
+## Project Objective
+To analyze sales data and create an interactive dashboard that provides useful business insights.
+
+## Author
+Lina Jadhav
