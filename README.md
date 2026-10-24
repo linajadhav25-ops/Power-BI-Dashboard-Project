@@ -88,5 +88,30 @@ Developed an interactive Power BI dashboard to analyze Adidas sales performance 
 - Monthly Sales Trends
 - Retailer Performance Analysis
 
+  ### 6. E-Commerce Website Sales Analysis Dashboard
+
+**Tools Used:** Power BI, Excel, DAX, Power Query
+
+**Project Description:**
+Developed an interactive E-Commerce Website Sales Dashboard using Power BI to analyze sales, profit, quantity, and shipping performance.
+
+**Key Performance Indicators (KPIs):**
+- Sum of Sales
+- Sum of Profit
+- Sum of Quantity
+- Sum of Shipping Cost
+
+**Slicers:**
+- Category
+- Market
+- Ship Mode
+
+**Dashboard Visualizations:**
+- Sales by Ship Mode
+- Sales by Category
+- Sales by Country
+- Sales by Market
+- Sales by State
+
 ## Contact
 GitHub: Lina Jadhav
