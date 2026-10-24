@@ -41,5 +41,22 @@ Amazon sales data and business performance.
 - Data Visualization
 - Data Analysis
 
+  ### 3. Amazon Prime Video Analysis Dashboard
+
+**Tools Used:** Power BI, Excel, DAX, Power Query
+
+**Project Description:**
+Created an interactive dashboard to analyze
+Amazon Prime Video content and streaming data.
+
+**Key Features:**
+- Total Movies and TV Shows
+- Content Type Analysis
+- Genre Analysis
+- Country-wise Content Distribution
+- Release Year Analysis
+- Ratings Analysis
+- 
+
 ## Contact
 GitHub: Lina Jadhav
