@@ -56,7 +56,21 @@ Amazon Prime Video content and streaming data.
 - Country-wise Content Distribution
 - Release Year Analysis
 - Ratings Analysis
-- 
+
+  ### 4. Zomato Sales Analysis Dashboard
+
+**Tools Used:** Power BI, Excel, DAX, Power Query
+
+**Project Description:**
+Created an interactive Power BI dashboard to analyze Zomato restaurant data and business performance.
+
+**Key Features:**
+- Restaurant Analysis
+- Customer Ratings Analysis
+- City-wise Restaurant Distribution
+- Online Ordering Analysis
+- Average Rating Analysis
+- Restaurant Performance Insights
 
 ## Contact
 GitHub: Lina Jadhav
