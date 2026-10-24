@@ -138,6 +138,41 @@ Developed an interactive HR Analytics Dashboard using Power BI to analyze employ
 - Attrition by Job Role
 - Attrition Count by Gender
 
+  ### 18. HR Attrition Dashboard
+
+**Tools Used:** Power BI, Excel, DAX, Power Query
+
+**Project Description:**
+Developed an interactive HR Attrition Dashboard using Power BI to analyze employee attrition trends, workforce demographics, employee performance, and retention factors.
+
+**Key Performance Indicators (KPIs):**
+- Total Employee Count
+- Attrition Count
+- Attrition Rate
+- Active Employee Count
+
+**Slicers:**
+- Education
+- Department
+
+**Dashboard Visualizations:**
+- Attrition Count by Department
+- Gender-wise Employee Distribution
+- Active Employee Analysis
+- Attrition by Year Group
+- Attrition by Education
+- Attrition by Age Group
+- Attrition by Income Group
+- Attrition by Work-Life Balance
+- Attrition by Overtime
+
+**Data Tables:**
+- Business Type and Total Attrition
+- Job Role and Total Attrition
+
+**Project Objective:**
+To identify employee attrition patterns, understand workforce distribution, and analyze key factors influencing employee retention.
+
 **Job Role Analysis:**
 - Job Role
 - First
