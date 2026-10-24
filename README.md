@@ -72,5 +72,21 @@ Created an interactive Power BI dashboard to analyze Zomato restaurant data and 
 - Average Rating Analysis
 - Restaurant Performance Insights
 
+  ### 5. Adidas Sales Analysis Dashboard
+
+**Tools Used:** Power BI, Excel, DAX, Power Query
+
+**Project Description:**
+Developed an interactive Power BI dashboard to analyze Adidas sales performance and business trends.
+
+**Key Features:**
+- Total Sales Analysis
+- Regional Sales Analysis
+- Product Category Analysis
+- Sales Method Analysis
+- Operating Profit Analysis
+- Monthly Sales Trends
+- Retailer Performance Analysis
+
 ## Contact
 GitHub: Lina Jadhav
