@@ -138,7 +138,7 @@ Developed an interactive HR Analytics Dashboard using Power BI to analyze employ
 - Attrition by Job Role
 - Attrition Count by Gender
 
-  ### 18. HR Attrition Dashboard
+  ### 8. HR Attrition Dashboard
 
 **Tools Used:** Power BI, Excel, DAX, Power Query
 
@@ -183,6 +183,32 @@ To identify employee attrition patterns, understand workforce distribution, and 
 
 **Project Objective:**
 To understand employee attrition patterns and analyze workforce distribution across different departments, age groups, salary groups, and job roles.
+
+
+### 9. Netflix Dashboard
+
+**Tools Used:** Power BI, Excel, DAX, Power Query
+
+**Project Description:**
+Developed an interactive Netflix Dashboard using Power BI to analyze Netflix content, ratings, genres, release years, and country-wise distribution of movies and TV shows.
+
+**Key Performance Indicators (KPIs):**
+- Total Titles
+- Total Ratings
+- Total Genres
+- Total Directors
+- Start Date
+- End Date
+
+**Dashboard Visualizations:**
+- Total Shows by Release Year (Area Chart)
+- Genres by Total Shows
+- Ratings by Total Shows
+- Movies and TV Shows Distribution
+- Total Shows by Country (Map)
+
+**Project Objective:**
+To analyze Netflix content distribution, understand genre and rating trends, and explore the availability of movies and TV shows across different countries.
 
 ## Contact
 GitHub: Lina Jadhav
