@@ -210,5 +210,31 @@ Developed an interactive Netflix Dashboard using Power BI to analyze Netflix con
 **Project Objective:**
 To analyze Netflix content distribution, understand genre and rating trends, and explore the availability of movies and TV shows across different countries.
 
+###  10. Olympics Data Analytics Project
+
+**Tools Used:** Power BI, Excel, DAX, Power Query
+
+**Project Description:**
+Developed an interactive Olympics Data Analytics Dashboard using Power BI to analyze Olympic players, teams, regions, and medal achievements across different years and genders.
+
+**Key Performance Indicators (KPIs):**
+- Sports Players
+- Count of Regions
+- Count of Teams
+
+**Medal Categories:**
+- Gold Medals
+- Silver Medals
+- Bronze Medals
+
+**Dashboard Visualizations:**
+- Count of IDs by Year and Sex
+- Gold, Silver, and Bronze Medals Analysis
+- Count of Teams by Name and Medal
+- Medal Distribution by Gender (Donut Chart)
+
+**Project Objective:**
+To analyze Olympic participation, explore medal distributions, and understand player and team performance across different years and genders.
+
 ## Contact
 GitHub: Lina Jadhav
