@@ -236,5 +236,42 @@ Developed an interactive Olympics Data Analytics Dashboard using Power BI to ana
 **Project Objective:**
 To analyze Olympic participation, explore medal distributions, and understand player and team performance across different years and genders.
 
+### 11. Smart Bazaar Dashboard
+
+**Tools Used:** Power BI, Excel, DAX, Power Query
+
+**Project Description:**
+Developed an interactive Smart Bazaar Dashboard using Power BI to analyze sales performance, product categories, outlet details, and customer preferences.
+
+**Key Performance Indicators (KPIs):**
+- Total Sales
+- Average Sales
+- Number of Items
+- Maximum Sales
+
+**Slicers:**
+- Outlet Location Type
+- Outlet Type
+- Item Type
+
+**Dashboard Visualizations:**
+- Outlet Establishment Year Analysis (Area Chart)
+- Item by Fat Content (Donut Chart)
+- Sales by Item Type
+- Fat Content by Outlet (Clustered Bar Chart)
+- Outlet Size Analysis (Donut Chart)
+- Outlet Location Type Analysis (Funnel Chart)
+
+**Data Table:**
+- Outlet Type
+- Sum of Outlet
+- Sum of Total Sales
+- Average Sales
+- Maximum Sales
+- Sum of Item Visibility
+
+**Project Objective:**
+To analyze outlet-wise sales performance, understand product distribution, and identify important factors affecting sales across different outlet types and locations.
+
 ## Contact
 GitHub: Lina Jadhav
